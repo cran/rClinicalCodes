@@ -1,0 +1,16 @@
+f0e3fe9b99b8960fd2dc5a6f39a706d2 *DESCRIPTION
+0d919a02451525a4a319ae95c5753201 *NAMESPACE
+a25e785c0ef117a7ed2d307b5bc7c434 *NEWS
+b07148400f1b8b791442fed3a4fd7240 *R/articles.R
+e7166cc98b175db0ca80d8e3a74a6b9a *R/clinicalcodes.R
+1f7257f29acdc33ef92f9bc6ed04e2de *R/keywords.R
+958e43ebea52c7f4963da4e894c8c8bf *R/rClinicalCodes.R
+b2329338349e565ac8bca64ed29f7b0d *R/research_objects.R
+2d203e245ee49790c1b4cbed8f7093e6 *README.md
+0c207518174b1da2f43a392fa6c5bf0d *inst/CITATION
+ddfbd434c3642fc456c8aed3f60e2c82 *man/all_ClinicalCodes_articles.Rd
+1df7a9d266c2918f2a483b65c16cd908 *man/codelist_keywords.Rd
+da538fe20b0437fc29f89422bdfdbe51 *man/codelists_for_ro.Rd
+54b330c73220c409c99ce20441dc19d2 *man/get_ClinicalCodes.Rd
+22efe0ba300cd656d94345c56521b4d3 *man/rClinicalCodes.Rd
+b454ecc8c2a161d3de378afd9696b1e5 *man/research_object.Rd
